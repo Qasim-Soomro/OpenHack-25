@@ -1,30 +1,25 @@
 ---
-name: 🐞 Bug Report (Simple)
-about: Tell us something that’s not working
-title: "[BUG] <short title here>"
+name: 🐞 Bug
+about: Something is not working
+title: "[BUG] <short title>"
 labels: bug
 assignees: ""
 ---
 
 ## ❓ What’s wrong?
-(Write in simple words what problem you faced.)
+(Explain the problem in 1–2 lines.)
 
 Example: "I can’t run the app, it crashes when I type `npm start`."
 
 ---
 
 ## ⚡ What did you try?
-(List quickly what you did before the bug showed up.)
+(List what you did before the bug showed up.)
 
 Example: "I cloned the repo, installed packages, and ran `npm start`."
 
 ---
 
 ## 💻 My Setup
-- OS (Windows/Mac/Linux): 
-- Tool I used (VS Code, Terminal, etc.): 
-
----
-
-## 📸 Extra (Optional)
-Add a screenshot if you can. If not, just skip.
+- OS:  
+- Tool (e.g., VS Code, Browser):  
