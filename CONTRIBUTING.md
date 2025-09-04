@@ -8,13 +8,12 @@ This repo is the central hub for hackathon rules, resources, and challenges.
 2. Clone your fork and create a new branch:
    ```bash
    git checkout -b my-feature
-
-```bash
+   ```
 3. Make your changes.
 4. Commit with a clear message:
-```bash
-git commit -m "Added solution for Challenge X"
-```
+   ```bash
+   git commit -m "Added solution for Challenge X"
+   ```
 5. Push to your fork and submit a Pull Request.
 
 ## Submissions
