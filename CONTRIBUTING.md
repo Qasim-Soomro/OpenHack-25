@@ -19,6 +19,4 @@ This repo is the central hub for hackathon rules, resources, and submissions.
 - Document your work (README, comments, etc).
 - Be kind in discussions and reviews.
 
-Happy hacking! ✨
---- IGNORE ---
 ### Happy hacking! ✨
