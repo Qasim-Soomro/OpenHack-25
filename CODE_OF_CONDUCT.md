@@ -1,6 +1,6 @@
 # 📜 Code of Conduct
 
-Welcome to **OpenHack'25**!  
+Welcome to **OpenHack’25**!  
 We’re here to learn, build, and have fun together. To make this event safe and inclusive for everyone:
 
 ## Our Pledge
@@ -21,7 +21,8 @@ We pledge to make participation in this hackathon a harassment-free experience f
 - Trolling or personal attacks.
 
 ## Enforcement
-- Report issues to organizer: **shakeelkhuhro.dev@gmail.com**
+- Report issues to organizers: **openhack25@support.com**
 - Violations may result in disqualification.
 
 Let’s make **OpenHack’25** a safe, fun, and inspiring space! 🚀
+### Thank you for being awesome! ✨
