@@ -36,5 +36,5 @@ We look for:
 ---
 
 ## 💬 Questions?
-Use the [Discussions](https://github.com/OpenHack-2025/openhack25-hackathon/discussions) tab.  
+Use the [Discussions](https://github.com/OpenHack-2025/hack/discussions) tab.  
 Mentors will help you there.
