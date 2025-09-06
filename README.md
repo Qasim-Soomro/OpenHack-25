@@ -1,5 +1,10 @@
 # 🚀 OpenHack'25 Hackathon
 
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=github)](https://hacktoberfest.com/)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&logo=github)](./CONTRIBUTING.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
+
+
 Welcome to **OpenHack’25**!  
 This is the official GitHub space for the hackathon. You’ll find:
 - Event info 🗓️
