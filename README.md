@@ -4,9 +4,10 @@
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&logo=github)](./CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
 
-![GitHub contributors](https://img.shields.io/github/contributors/OpenHack-2025/hack?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/OpenHack-2025/hack?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/OpenHack-2025/hack?style=for-the-badge)
+[![GitHub contributors](https://img.shields.io/github/contributors/OpenHack-25/Hack?style=for-the-badge)](https://github.com/OpenHack-25/Hack/graphs/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/OpenHack-25/Hack?style=for-the-badge)](https://github.com/OpenHack-25/Hack/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/OpenHack-25/Hack?style=for-the-badge)](https://github.com/OpenHack-25/Hack/pulls)
+
 
 
 Welcome to **OpenHack’25**!  
