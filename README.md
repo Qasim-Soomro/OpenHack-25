@@ -4,6 +4,10 @@
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&logo=github)](./CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
 
+![GitHub contributors](https://img.shields.io/github/contributors/OpenHack-2025/hack?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/OpenHack-2025/hack?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/OpenHack-2025/hack?style=for-the-badge)
+
 
 Welcome to **OpenHack’25**!  
 This is the official GitHub space for the hackathon. You’ll find:
