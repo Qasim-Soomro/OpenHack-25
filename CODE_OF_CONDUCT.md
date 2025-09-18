@@ -24,5 +24,5 @@ We pledge to make participation in this hackathon a harassment-free experience f
 - Report issues to organizers: **openhack25@support.com**
 - Violations may result in disqualification.
 
-Let’s make **OpenHack’25** a safe, fun, and inspiring space! 🚀
-### Thank you for being awesome! ✨
+Let’s make **OpenHack’25** a safe, fun, and inspiring space!
+### Thank you for being awesome!
