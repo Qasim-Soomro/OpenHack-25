@@ -1,28 +1,28 @@
-# 📜 Code of Conduct
+# Code of Conduct
 
-Welcome to **OpenHack’25**!  
-We’re here to learn, build, and have fun together. To make this event safe and inclusive for everyone:
+Welcome to **OpenHack’25**. We are committed to providing a welcoming, safe, and inclusive environment for all participants. This Code of Conduct outlines our expectations for behavior and the consequences of unacceptable conduct.
 
 ## Our Pledge
-We pledge to make participation in this hackathon a harassment-free experience for everyone, regardless of:
-- Age, gender, race, religion, ability, or background.
+In the interest of fostering an open and inclusive community, we pledge to make participation in this event a harassment-free experience for everyone, regardless of age, gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, or technology choices.
 
-## Our Standards
-- Be respectful, kind, and supportive.
+## Standards of Behavior
+- Be respectful, considerate, and constructive.
 - Use welcoming and inclusive language.
-- Respect different viewpoints and experiences.
-- Accept constructive feedback gracefully.
-- Focus on collaboration, not competition.
+- Respect differing viewpoints and experiences.
+- Accept constructive feedback graciously.
+- Focus on collaboration and learning.
 
 ## Unacceptable Behavior
-- Harassment, bullying, or discrimination.
-- Offensive comments (verbal, written, or online).
-- Unwelcome sexual attention or advances.
-- Trolling or personal attacks.
+Examples of unacceptable behavior include, but are not limited to:
+- Harassment, intimidation, or discrimination in any form.
+- Offensive verbal or written comments.
+- Trolling, deliberate disruption, or personal attacks.
+- Publishing others’ private information without consent.
 
-## Enforcement
-- Report issues to organizers: **openhack25@support.com**
-- Violations may result in disqualification.
+## Reporting and Enforcement
+- If you experience or witness unacceptable behavior, please report it as soon as possible to the organizers at: **shakeelkhuhro.dev@gmail.com**
+- All complaints will be reviewed and investigated promptly and fairly.
+- Organizers have the right to take appropriate action, including warning, temporary ban, or permanent expulsion from the event, without refund, if applicable.
 
-Let’s make **OpenHack’25** a safe, fun, and inspiring space!
-### Thank you for being awesome!
+## Commitment
+By participating in **OpenHack’25**, you agree to abide by this Code of Conduct and help create a positive experience for everyone.
