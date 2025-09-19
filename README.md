@@ -9,42 +9,69 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/OpenHack-25/Hack?style=for-the-badge)](https://github.com/OpenHack-25/Hack/pulls)
 
 
+# OpenHack’25 Hackathon
 
-Welcome to **OpenHack’25**!  
-This is the official GitHub space for the hackathon. You’ll find:
-- Event info
-- Rules
-- Themes & Suggestions
-- Submissions
+This is the official repository for the OpenHack’25 hackathon. All contributors are welcome, whether you are experienced with open source or making your first pull request.
 
 ---
 
-## Dates
-- Hackathon: Oct 14, 2025  
-- Conference + Awards: Oct 16, 2025  
+## Important Dates
+- Hackathon: Oct 14, 2025
+- Conference + Awards: Oct 16, 2025
+
+---
+
+## Quick Start for Contributors
+1. Fork this repository
+2. Clone your fork: `git clone https://github.com/YOUR-USERNAME/Hack.git`
+3. Create a branch: `git checkout -b my-feature`
+4. Make your changes and commit: `git commit -m "Add my feature"`
+5. Push to your fork: `git push origin my-feature`
+6. Open a Pull Request on this repository
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
+
+---
 
 ## How It Works
-1. Pick a theme from the [Themes file](THEMES.md).  
-2. Form a team (2–3 recommended).  
-3. Build your project (fork → create → submit).  
-4. Submit using the **Submission Form (GitHub Issue)**.  
-5. Judges will review your work.  
+1. Pick a theme from [THEMES.md](THEMES.md)
+2. Form a team (2–3 recommended)
+3. Build your project (fork → create → submit)
+4. Submit using the Submission Form (GitHub Issue)
+5. Judges will review your work
 
 ---
 
 ## Themes
-See [THEMES.md](THEMES.md) for ideas & inspiration.  
-
-
-## Judging
-We look for:  
-- Creativity 
-- Code quality 
-- Teamwork 
-- Open source spirit 
+See [THEMES.md](THEMES.md) for ideas and inspiration.
 
 ---
 
-## Questions?
-Use the [Discussions](https://github.com/OpenHack-25/Hack/discussions) tab.  
-Mentors will help you there.
+## Judging Criteria
+- Creativity
+- Code quality
+- Teamwork
+- Open source spirit
+
+---
+
+## Beginner Friendly
+We welcome first-time contributors. Look for issues labeled [`good first issue`](https://github.com/OpenHack-25/Hack/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) or [`hacktoberfest`](https://github.com/OpenHack-25/Hack/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest).
+
+---
+
+## Resources
+- [CONTRIBUTING.md](./CONTRIBUTING.md) — Contribution guidelines
+- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) — Code of conduct
+- [THEMES.md](./THEMES.md) — Project ideas
+
+---
+
+## Code of Conduct
+Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) to help keep this community welcoming and inclusive for all.
+
+---
+
+Use the [Discussions](https://github.com/OpenHack-25/Hack/discussions) tab. Mentors are available to help.
+
+---
