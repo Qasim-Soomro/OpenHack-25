@@ -1,7 +1,13 @@
 # OpenHack’25 Themes & Suggestions
 
-At OpenHack’25, you can build **anything you’re passionate about**.  
-Projects don’t need to use AI — but if you want to explore AI, we’ve added some suggestions below.  
+At OpenHack’25, you are only allowed to build projects in the following categories:  
+
+1. **Education**  
+2. **Agriculture**  
+3. **Energy and Climate Change**  
+4. **Health Care**  
+
+Projects don’t need to use AI — but if you want to explore AI, you can add intelligent features to these categories.
 
 ---
 
@@ -27,4 +33,5 @@ If you want to try AI, here are some open suggestions:
 💡 Remember: These are **just suggestions**.  
 The best projects often come from unique, original ideas.  
 Focus on **creativity, impact, and teamwork**.
-# Happy hacking! 
+
+# Happy hacking!
