@@ -1,35 +1,5 @@
 # 🚀 OpenHack'25## About OpenHack'25
 
-Welcome to **OpenHack'25** - an exciting hackathon focused on buildin### Submission Requirements
-- **Create Project Folder:** Create a dedicated folder### **Education**
-Build solutions that enhance learning, teaching, or educational access
-
-### **Agriculture** 
-Create tools for farming, food security, or agricultural innovation
-
-### **Energy and Climate Change**
-Develop solutions for sustainability, renewable energy, or environmental challenges
-
-### **Health Care**
-Design tools for health monitoring, medical access, or wellness improvement
-
-### Project Implementation Types
-Choose how you'll build your solution:
-- **Mobile App** — iOS, Android, or cross-platform applications
-- **Web App** — Websites, web services, or browser-based tools  
-- **Developer Tools** — CLI tools, plugins, frameworks, or libraries
-- **Other Creative Solutions** — Games, hardware projects, or innovative approaches in this repository
-- **Submit Pull Request:** Submit your code via Pull Request to this repository
-- **Open Source:** Projects must be open source (see our license options)
-- **Category Focus:** Projects must fit within one of the 4 designated categories
-- **Project Type:** Choose from Mobile App, Web App, Developer Tools, or other creative solutions
-- **Presentation Materials:** PPT and visuals will be collected through a separate formsource solutions for real-world challenges! Whether you're a seasoned developer or making your first contribution to open source, join us to create impactful projects in Education, Agriculture, Energy & Climate Change, or Health Care.
-
-**Event Date:** October 14, 2025  
-**Team Size:** 2-3 members  
-**Categories:** Education, Agriculture, Energy & Climate Change, Health Care  
-**Focus:** Open source solutions for real-world problemson
-
 <div align="center">
 
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=github)](https://hacktoberfest.com/)
