@@ -16,11 +16,12 @@
 
 ## 🎯 About OpenHack'25
 
-Welcome to **OpenHack'25** - an exciting hackathon that brings together developers, designers, and innovators to create amazing open-source projects! Whether you're a seasoned developer or making your first contribution to open source, this event is designed for everyone.
+Welcome to **OpenHack'25** - an exciting hackathon focused on building open-source solutions for real-world challenges! Whether you're a seasoned developer or making your first contribution to open source, join us to create impactful projects in Education, Agriculture, Energy & Climate Change, or Health Care.
 
 🗓️ **Event Date:** October 14, 2025  
 👥 **Team Size:** 2-3 members  
-🌟 **Focus:** Open source collaboration and innovation
+� **Categories:** Education, Agriculture, Energy & Climate Change, Health Care  
+�🌟 **Focus:** Open source solutions for real-world problems
 
 ## 📋 Table of Contents
 
@@ -30,7 +31,7 @@ Welcome to **OpenHack'25** - an exciting hackathon that brings together develope
 - [📝 Rules & Guidelines](#-rules--guidelines)
 - [🎨 How It Works](#-how-it-works)
 - [🏆 Judging Criteria](#-judging-criteria)
-- [🎭 Themes](#-themes)
+- [🎭 Categories & Project Types](#-categories--project-types)
 - [👥 For Beginners](#-for-beginners)
 - [❓ FAQ](#-faq)
 - [📚 Resources](#-resources)
@@ -79,7 +80,9 @@ Welcome to **OpenHack'25** - an exciting hackathon that brings together develope
 6. **Create a Pull Request** 📤
    - Go to your fork on GitHub
    - Click "New Pull Request"
-   - Fill out the template with project details
+   - Submit your project folder with complete solution and documentation
+
+📊 **Presentation Materials:** PPT and visuals will be collected through a separate form link provided during the event
 
 📖 For detailed guidelines, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 
@@ -98,9 +101,12 @@ Welcome to **OpenHack'25** - an exciting hackathon that brings together develope
 - 🤝 **Be Respectful:** Follow our [Code of Conduct](./CODE_OF_CONDUCT.md)
 
 ### Submission Requirements
-- 📝 **Use GitHub:** All code must be in a public GitHub repository
-- 🔄 **Open Source:** Projects must be open source (see our license options)
-- 📋 **Submit via Issue:** Use our submission template to submit your project
+- � **Create Project Folder:** Create a dedicated folder for your solution in this repository
+- 🔄 **Submit Pull Request:** Submit your code via Pull Request to this repository
+- � **Open Source:** Projects must be open source (see our license options)
+- 🎯 **Category Focus:** Projects must fit within one of the 4 designated categories
+- 🛠️ **Project Type:** Choose from Mobile App, Web App, Developer Tools, or other creative solutions
+- 📊 **Presentation Materials:** PPT and visuals will be collected through a separate form
 
 > ⚠️ **Important:** Organizers reserve the right to disqualify teams for unsportsmanlike behavior.
 
@@ -110,34 +116,40 @@ Welcome to **OpenHack'25** - an exciting hackathon that brings together develope
 
 ```mermaid
 graph LR
-    A[Choose Theme] --> B[Form Team]
-    B --> C[Fork Repository]
-    C --> D[Build Project]
-    D --> E[Submit via GitHub Issue]
-    E --> F[Judging & Results]
+    A[Choose Category] --> B[Form Team]
+    B --> C[Pick Project Type]
+    C --> D[Fork Repository]
+    D --> E[Build Project]
+    E --> F[Submit Your Project]
+    F --> G[Judging & Results]
 ```
 
 ### Step-by-Step Process
 
-1. **🎭 Pick a Theme**
-   - Browse [THEMES.md](./THEMES.md) for inspiration
-   - Choose something that excites your team
+1. **🎭 Choose Your Category**
+   - Select from 4 categories: Education, Agriculture, Energy & Climate Change, or Health Care
+   - Review [THEMES.md](./THEMES.md) for detailed guidance and inspiration
 
 2. **👥 Form Your Team**
    - Find 1-2 teammates (2-3 total members)
    - Register your team before the deadline
 
-3. **🚀 Build Your Project**
+3. **🛠️ Pick Your Project Type**
+   - Mobile App, Web App, Developer Tools, or any other creative solution
+   - Focus on solving real problems in your chosen category
+
+4. **🚀 Build Your Project**
    - Fork this repository
-   - Create your project in a new directory
+   - Create a dedicated folder for your project solution
    - Follow open source best practices
 
-4. **📤 Submit Your Work**
-   - Create a GitHub Issue using our submission template
-   - Include project description, demo links, and team info
+5. **📤 Submit Your Work**
+   - Submit your code via Pull Request to this repository
+   - Presentation materials (PPT/visuals) will be collected through a separate form
+   - Include clear project documentation in your folder
 
-5. **🏆 Await Results**
-   - Judges will review all submissions
+6. **🏆 Await Results**
+   - Judges will evaluate all submissions
    - Winners announced after evaluation period
 
 ---
@@ -161,19 +173,30 @@ Projects will be evaluated based on:
 
 ---
 
-## 🎭 Themes
+## 🎭 Categories & Project Types
 
-Explore exciting project themes and ideas in [THEMES.md](./THEMES.md). 
+At OpenHack'25, all projects must fit within one of these **4 categories**:
 
-Some popular categories include:
-- 🤖 **AI & Machine Learning**
-- 🌍 **Sustainability & Environment**
-- 🎓 **Education & Learning**
-- 🏥 **Health & Wellness**
-- 🎮 **Games & Entertainment**
-- 🛠️ **Developer Tools**
+### 📚 **Education**
+Build solutions that enhance learning, teaching, or educational access
 
-> 💡 **Tip:** Choose a theme that aligns with your team's interests and skills!
+### 🌱 **Agriculture** 
+Create tools for farming, food security, or agricultural innovation
+
+### 🌍 **Energy and Climate Change**
+Develop solutions for sustainability, renewable energy, or environmental challenges
+
+### � **Health Care**
+Design tools for health monitoring, medical access, or wellness improvement
+
+### Project Implementation Types
+Choose how you'll build your solution:
+- 📱 **Mobile App** — iOS, Android, or cross-platform applications
+- � **Web App** — Websites, web services, or browser-based tools  
+- 🛠️ **Developer Tools** — CLI tools, plugins, frameworks, or libraries
+- 🎨 **Other Creative Solutions** — Games, hardware projects, or innovative approaches
+
+> 💡 **Explore the full details and inspiration in [THEMES.md](./THEMES.md)**
 
 ---
 
@@ -227,7 +250,7 @@ Not necessarily! While programming skills are helpful, we welcome designers, pro
 <details>
 <summary><strong>Can I work on an existing project?</strong></summary>
 <br>
-The hackathon is for creating new open source projects. However, you can build upon existing open source tools and libraries as dependencies.
+The hackathon is for creating new open source projects within the designated categories. However, you can build upon existing open source tools and libraries as dependencies.
 </details>
 
 <details>
@@ -240,6 +263,17 @@ Use our <a href="https://github.com/OpenHack-25/Hack/discussions">Discussions</a
 <summary><strong>What if I can't finish my project?</strong></summary>
 <br>
 That's perfectly fine! The goal is to learn, collaborate, and have fun. Submit what you have - judges appreciate effort and creativity over completion.
+</details>
+
+<details>
+<summary><strong>How do I submit my project?</strong></summary>
+<br>
+<ol>
+<li>📁 Create a dedicated folder for your project in this repository</li>
+<li>🔄 Submit your code via Pull Request</li>
+<li>📊 Submit your presentation materials (PPT/visuals) through the form link provided during the event</li>
+<li>📚 Include clear documentation and setup instructions in your project folder</li>
+</ol>
 </details>
 
 ---
