@@ -1,4 +1,4 @@
-# 🚀 OpenHack'25## About OpenHack'25
+# 🚀 OpenHack'25
 
 <div align="center">
 
