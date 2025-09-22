@@ -156,14 +156,20 @@ graph LR
 
 ## Judging Criteria
 
-Projects will be evaluated based on:
+Projects will be evaluated based on the following criteria:
 
-| Criteria | Weight | Description |
-|----------|--------|-------------|
-| **Creativity** | 25% | Originality and innovation of the idea |
-| **Code Quality** | 25% | Clean, well-documented, maintainable code |
-| **Teamwork** | 25% | Collaboration and contribution balance |
-| **Open Source Spirit** | 25% | Community impact and accessibility |
+| Main Criteria | Weight | Sub-Criteria | Sub-Weight | Description |
+|---------------|--------|--------------|------------|-------------|
+| **Uniqueness** | 15% | Application of Technologies | 50% | How innovative is the use of technology |
+|  |  | Innovation | 50% | Originality and creative approach |
+| **Proof of Concept** | 15% | Understanding of Problem to be Solved | 50% | Clarity of problem definition and solution approach |
+|  |  | Understanding of Business Environment | 50% | Market awareness and business viability |
+| **Functionalities and Features** | 15% | User Requirements | 50% | How well the solution meets user needs |
+|  |  | Compatibility and Interoperability | 50% | Technical integration and system compatibility |
+| **Quality** | 30% | Content & Standards | 60% | Code quality, documentation, and adherence to standards |
+|  |  | Product Stability & Reliability | 40% | Performance, error handling, and robustness |
+| **Creativity & Code Quality** | 25% | Originality and Innovation of the Idea | 50% | Creative problem-solving and unique approach |
+|  |  | Clean, Well-documented, Maintainable Code | 50% | Code organization, comments, and maintainability |
 
 ### Additional Considerations
 - **User Experience:** How intuitive and polished is your project?
