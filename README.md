@@ -18,10 +18,10 @@
 
 Welcome to **OpenHack'25** - an exciting hackathon focused on building open-source solutions for real-world challenges! Whether you're a seasoned developer or making your first contribution to open source, join us to create impactful projects in Education, Agriculture, Energy & Climate Change, or Health Care.
 
-🗓️ **Event Date:** October 14, 2025  
-👥 **Team Size:** 2-3 members  
-� **Categories:** Education, Agriculture, Energy & Climate Change, Health Care  
-�🌟 **Focus:** Open source solutions for real-world problems
+**Event Date:** October 14, 2025  
+**Team Size:** 2-3 members  
+**Categories:** Education, Agriculture, Energy & Climate Change, Health Care  
+**Focus:** Open source solutions for real-world problems
 
 ## 📋 Table of Contents
 
@@ -82,9 +82,9 @@ Welcome to **OpenHack'25** - an exciting hackathon focused on building open-sour
    - Click "New Pull Request"
    - Submit your project folder with complete solution and documentation
 
-📊 **Presentation Materials:** PPT and visuals will be collected through a separate form link provided during the event
+**Presentation Materials:** PPT and visuals will be collected through a separate form link provided during the event
 
-📖 For detailed guidelines, see [CONTRIBUTING.md](./CONTRIBUTING.md)
+For detailed guidelines, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ---
 
@@ -101,12 +101,12 @@ Welcome to **OpenHack'25** - an exciting hackathon focused on building open-sour
 - **Be Respectful:** Follow our [Code of Conduct](./CODE_OF_CONDUCT.md)
 
 ### Submission Requirements
-- � **Create Project Folder:** Create a dedicated folder for your solution in this repository
-- 🔄 **Submit Pull Request:** Submit your code via Pull Request to this repository
-- � **Open Source:** Projects must be open source (see our license options)
-- 🎯 **Category Focus:** Projects must fit within one of the 4 designated categories
-- 🛠️ **Project Type:** Choose from Mobile App, Web App, Developer Tools, or other creative solutions
-- 📊 **Presentation Materials:** PPT and visuals will be collected through a separate form
+- **Create Project Folder:** Create a dedicated folder for your solution in this repository
+- **Submit Pull Request:** Submit your code via Pull Request to this repository
+- **Open Source:** Projects must be open source (see our license options)
+- **Category Focus:** Projects must fit within one of the 4 designated categories
+- **Project Type:** Choose from Mobile App, Web App, Developer Tools, or other creative solutions
+- **Presentation Materials:** PPT and visuals will be collected through a separate form
 
 > ⚠️ **Important:** Organizers reserve the right to disqualify teams for unsportsmanlike behavior.
 
@@ -183,32 +183,32 @@ Projects will be evaluated based on the following criteria:
 
 At OpenHack'25, all projects must fit within one of these **4 categories**:
 
-### 📚 **Education**
+### **Education**
 Build solutions that enhance learning, teaching, or educational access
 
-### 🌱 **Agriculture** 
+### **Agriculture** 
 Create tools for farming, food security, or agricultural innovation
 
-### 🌍 **Energy and Climate Change**
+### **Energy and Climate Change**
 Develop solutions for sustainability, renewable energy, or environmental challenges
 
-### � **Health Care**
+### **Health Care**
 Design tools for health monitoring, medical access, or wellness improvement
 
 ### Project Implementation Types
 Choose how you'll build your solution:
-- 📱 **Mobile App** — iOS, Android, or cross-platform applications
-- � **Web App** — Websites, web services, or browser-based tools  
-- 🛠️ **Developer Tools** — CLI tools, plugins, frameworks, or libraries
-- 🎨 **Other Creative Solutions** — Games, hardware projects, or innovative approaches
+- **Mobile App** — iOS, Android, or cross-platform applications
+- **Web App** — Websites, web services, or browser-based tools  
+- **Developer Tools** — CLI tools, plugins, frameworks, or libraries
+- **Other Creative Solutions** — Games, hardware projects, or innovative approaches
 
-> 💡 **Explore the full details and inspiration in [THEMES.md](./THEMES.md)**
+> **Explore the full details and inspiration in [THEMES.md](./THEMES.md)**
 
 ---
 
 ## For Beginners
 
-New to open source? Welcome! We're excited to have you join us. 🎉
+New to open source? Welcome! We're excited to have you join us. 
 
 ### Mentorship
 - Mentors are available throughout the event
@@ -245,7 +245,7 @@ Not necessarily! While programming skills are helpful, we welcome designers, pro
 <details>
 <summary><strong>Can I work on an existing project?</strong></summary>
 <br>
-The hackathon is for creating new open source projects within the designated categories. However, you can build upon existing open source tools and libraries as dependencies.
+The hackathon is for creating new open-source projects within the designated categories. However, you can build upon existing open source tools and libraries as dependencies.
 </details>
 
 <details>
