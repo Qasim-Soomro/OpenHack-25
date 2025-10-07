@@ -210,17 +210,6 @@ Choose how you'll build your solution:
 
 New to open source? Welcome! We're excited to have you join us. 🎉
 
-### Getting Started Resources
-- [First Contributions Guide](https://github.com/firstcontributions/first-contributions)
-- [GitHub's Git Tutorial](https://try.github.io/)
-- [Open Source Guide](https://opensource.guide/)
-
-### Find Beginner-Friendly Issues
-Look for issues labeled:
-- [`good first issue`](https://github.com/OpenHack-25/Hack/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-- [`hacktoberfest`](https://github.com/OpenHack-25/Hack/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-- [`help wanted`](https://github.com/OpenHack-25/Hack/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-
 ### Mentorship
 - Mentors are available throughout the event
 - Ask questions in [Discussions](https://github.com/OpenHack-25/Hack/discussions)
