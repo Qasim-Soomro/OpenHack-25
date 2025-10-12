@@ -51,10 +51,11 @@ Projects don't need to use AI, but if you want to explore AI, you can add intell
 ---
 
 # Important Guidelines
-- **Specific problems** will be released in [PROBLEMS.md](./PROBLEMS.md) 15 minutes before hackathon- Agricultural data analytics and insightsBuild solutions that enhance learning, teaching, or educational access:Build solutions that enhance learning, teaching, or educational access:
+- **Specific problems** will be released in [PROBLEMS.md](./PROBLEMS.md) 15 minutes before hackathon- Agricultural data analytics and insightsBuild solutions that enhance learning, teaching, or educational access. Build solutions that enhance learning, teaching, or educational access:
 
 - **AI is optional** but can enhance your solution
 - Focus on **one category** per team
+- Multiple teams can choose the same problem
 - **Deadline:** October 15, 2025 - 11:59 AM
 
 
