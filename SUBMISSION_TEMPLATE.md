@@ -240,4 +240,4 @@ Your project will be evaluated based on:
 
 **Important:** Make sure to submit via Pull Request - GitHub Issue submissions are no longer accepted.
 
-Made with love by the OpenHack'25 team
+Made with love ❤️ by the OpenHack'25 team
