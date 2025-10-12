@@ -70,6 +70,7 @@ TeamName_ProjectName/
 ## Important Links
 
 - **📋 [SUBMISSION_TEMPLATE.md](./SUBMISSION_TEMPLATE.md)** - **Complete submission guide (START HERE)**
+- **👥 [TEAM_COLLABORATION.md](./TEAM_COLLABORATION.md)** - Team collaboration guidelines
 - **🎯 [THEMES.md](./THEMES.md)** - Project categories and problem statements  
 - **📖 [README.md](./README.md)** - Hackathon overview and instructions
 - **⚖️ [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)** - Community guidelines

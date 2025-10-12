@@ -277,6 +277,8 @@ That's perfectly fine! The goal is to learn, collaborate, and have fun. Submit w
 
 ### Essential Reading
 - [**CONTRIBUTING.md**](./CONTRIBUTING.md) - How to contribute to this repository
+- [**SUBMISSION_TEMPLATE.md**](./SUBMISSION_TEMPLATE.md) - Complete project submission guide
+- [**TEAM_COLLABORATION.md**](./TEAM_COLLABORATION.md) - Team collaboration guidelines
 - [**CODE_OF_CONDUCT.md**](./CODE_OF_CONDUCT.md) - Community guidelines
 - [**THEMES.md**](./THEMES.md) - Project ideas and inspiration
 - [**LICENSE**](./LICENSE) - MIT License details
