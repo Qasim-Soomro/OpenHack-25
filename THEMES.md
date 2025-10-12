@@ -1,4 +1,6 @@
-# OpenHack’25 Themes & Suggestions
+# OpenHack'Projects don't need to use AI, but if you want to explore AI, you can add intelligent features to these categories.5 Themes and Project Categories
+
+At OpenHack'25, you are encouraged to build projects in the following categories:penHack’25 Themes & Suggestions
 
 At OpenHack’25, you are only allowed to build projects in the following categories:  
 
@@ -30,8 +32,8 @@ If you want to try AI, here are some open suggestions:
 
 ---
 
-Remember: These are **just suggestions**.  
+Remember: These are **suggestions only**.  
 The best projects often come from unique, original ideas.  
 Focus on **creativity, impact, and teamwork**.
 
-# Happy hacking!
+**Happy hacking!**

@@ -1,5 +1,5 @@
 ---
-name: 🐞 Bug
+name: Bug Report
 about: Something is not working
 title: "[BUG] <short title>"
 labels: bug

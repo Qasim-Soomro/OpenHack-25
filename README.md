@@ -69,7 +69,7 @@ Welcome to **OpenHack'25** - an exciting hackathon focused on building open-sour
    ```bash
    # Build something amazing!
    git add .
-   git commit -m "✨ Add my awesome feature"
+   git commit -m "Add my awesome feature"
    ```
 
 5. **Push to your fork**
@@ -197,10 +197,10 @@ Design tools for health monitoring, medical access, or wellness improvement
 
 ### Project Implementation Types
 Choose how you'll build your solution:
-- **Mobile App** — iOS, Android, or cross-platform applications
-- **Web App** — Websites, web services, or browser-based tools  
-- **Developer Tools** — CLI tools, plugins, frameworks, or libraries
-- **Other Creative Solutions** — Games, hardware projects, or innovative approaches
+- **Mobile App** - iOS, Android, or cross-platform applications
+- **Web App** - Websites, web services, or browser-based tools  
+- **Developer Tools** - CLI tools, plugins, frameworks, or libraries
+- **Other Creative Solutions** - Games, hardware projects, or innovative approaches
 
 > **Explore the full details and inspiration in [THEMES.md](./THEMES.md)**
 
@@ -276,22 +276,22 @@ That's perfectly fine! The goal is to learn, collaborate, and have fun. Submit w
 ## Resources
 
 ### Essential Reading
-- [**CONTRIBUTING.md**](./CONTRIBUTING.md) — How to contribute to this repository
-- [**CODE_OF_CONDUCT.md**](./CODE_OF_CONDUCT.md) — Community guidelines
-- [**THEMES.md**](./THEMES.md) — Project ideas and inspiration
-- [**LICENSE**](./LICENSE) — MIT License details
+- [**CONTRIBUTING.md**](./CONTRIBUTING.md) - How to contribute to this repository
+- [**CODE_OF_CONDUCT.md**](./CODE_OF_CONDUCT.md) - Community guidelines
+- [**THEMES.md**](./THEMES.md) - Project ideas and inspiration
+- [**LICENSE**](./LICENSE) - MIT License details
 
 ### Helpful Tools
-- [GitHub Desktop](https://desktop.github.com/) — GUI for Git
-- [VS Code](https://code.visualstudio.com/) — Popular code editor
-- [Figma](https://figma.com/) — Design and prototyping
-- [Miro](https://miro.com/) — Collaborative planning
+- [GitHub Desktop](https://desktop.github.com/) - GUI for Git
+- [VS Code](https://code.visualstudio.com/) - Popular code editor
+- [Figma](https://figma.com/) - Design and prototyping
+- [Miro](https://miro.com/) - Collaborative planning
 
 ### Learning Resources
-- [freeCodeCamp](https://freecodecamp.org/) — Free coding tutorials
-- [MDN Web Docs](https://developer.mozilla.org/) — Web development reference
-- [Python.org](https://python.org/) — Python programming resources
-- [React Docs](https://react.dev/) — React development guide
+- [freeCodeCamp](https://freecodecamp.org/) - Free coding tutorials
+- [MDN Web Docs](https://developer.mozilla.org/) - Web development reference
+- [Python.org](https://python.org/) - Python programming resources
+- [React Docs](https://react.dev/) - React development guide
 
 ---
 
@@ -300,10 +300,10 @@ That's perfectly fine! The goal is to learn, collaborate, and have fun. Submit w
 We are committed to providing a welcoming and inclusive environment for all participants. Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) to understand our community standards.
 
 **Key principles:**
-- **Be inclusive** — Welcome people of all backgrounds
-- **Be respectful** — Treat everyone with kindness
-- **Be collaborative** — Help others succeed
-- **Be learning-focused** — Share knowledge and learn together
+- **Be inclusive** - Welcome people of all backgrounds
+- **Be respectful** - Treat everyone with kindness
+- **Be collaborative** - Help others succeed
+- **Be learning-focused** - Share knowledge and learn together
 
 ---
 

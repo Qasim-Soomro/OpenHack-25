@@ -1,34 +1,79 @@
 # Contributing Guidelines
 
+Thank you for your interest in contributing to **OpenHack'25**. This repository serves as the central hub for hackathon rules, resources, and project submissions.
+
+## 🚀 Quick Start for Hackathon Submissions
+
+**For detailed step-by-step submission instructions, please see:**
+**[📋 SUBMISSION_TEMPLATE.md](./SUBMISSION_TEMPLATE.md)** - Complete submission guide with Pull Request process
+
+## General Contribution Process
+
+### For Hackathon Projects:
+1. **Fork** this repository to your own GitHub account
+2. **Follow the detailed process** outlined in [SUBMISSION_TEMPLATE.md](./SUBMISSION_TEMPLATE.md)
+3. **Submit via Pull Request** (GitHub Issues no longer accepted)
+
+### For Repository Improvements:
+1. **Fork** this repository
+2. **Create a new branch** for your improvement: `git checkout -b improvement/description`
+3. **Make your changes** (documentation updates, bug fixes, etc.)
+4. **Commit** with clear commit messages
+5. **Submit a Pull Request** describing your changesg Guidelines
+
 Thank you for your interest in contributing to **OpenHack’25**. This repository serves as the central hub for hackathon rules, resources, and project submissions.
 
 ## Contribution Process
 1. **Fork** this repository to your own GitHub account.
 2. **Clone** your fork to your local machine.
-3. **Create a new branch** for your feature or fix: `git checkout -b feature-name`.
-4. **Develop** your project or make your changes. Ensure your code is well-documented and tested.
-5. **Commit** your changes with clear and descriptive commit messages.
-6. **Push** your branch to your forked repository.
-7. **Submit your project** using the [Submission Form (GitHub Issue)](https://github.com/OpenHack-25/Hackathon/issues/new?assignees=&labels=submission&template=submission_template.md&title=Submission%3A+%3Cproject+name%3E).
+3. **Create a new branch** for your project: `git checkout -b team-name/project-name`.
+4. **Create a project folder** in the root directory with your team name and project.
+5. **Develop** your project. Ensure your code is well-documented and includes testing.
+6. **Commit** your changes with clear and descriptive commit messages.
+7. **Push** your branch to your forked repository.
+8. **Submit a Pull Request** to the main repository with your project folder.
 
-## Submission Requirements
-- Use the [submission template](.github/ISSUE_TEMPLATE/submission_template.md).
-- Only one submission per team is allowed.
-- Ensure your code runs without errors and is properly documented.
-- Include a `README.md` in your project folder with setup and usage instructions.
+## Project Requirements Summary
+
+**For complete submission requirements, see [SUBMISSION_TEMPLATE.md](./SUBMISSION_TEMPLATE.md)**
+
+### Essential Requirements:
+- **Pull Request submission** with proper title format
+- **Working code** that compiles and runs without errors
+- **README.md** with clear setup instructions
+- **Proper project structure** with organized folders
+- **Dependencies listed** in requirements.txt or package.json
+
+### Project Structure Example:
+```
+TeamName_ProjectName/
+├── README.md (Setup and usage instructions)
+├── src/ (Source code)
+├── requirements.txt or package.json
+└── main.py / app.js / index.html
+```
 
 ## Code Standards
-- Write clean, readable, and maintainable code.
-- Follow consistent naming conventions and file organization.
-- Add comments where necessary to explain complex logic.
-- Use meaningful and concise commit messages.
+
+- **Clean Code:** Well-structured code with proper commenting
+- **Error Handling:** Basic error handling and validation
+- **Documentation:** Clear README with setup instructions
+- **Functionality:** Code should run without errors
+- **Dependencies:** All dependencies properly listed
 
 ## Communication and Conduct
-- Be respectful and constructive in all discussions, code reviews, and interactions.
-- Review and adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
-## Additional Resources
-- [THEMES.md](./THEMES.md) — Project ideas and themes
-- [README.md](./README.md) — Hackathon overview and instructions
+- Be respectful and constructive in all discussions and interactions
+- Review and adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md)
+- Use [GitHub Discussions](https://github.com/OpenHack-25/Hackathon/discussions) for questions
 
-If you have any questions, please use the [Discussions](https://github.com/OpenHack-25/Hackathon/discussions) tab or open an issue.
+## Important Links
+
+- **📋 [SUBMISSION_TEMPLATE.md](./SUBMISSION_TEMPLATE.md)** - **Complete submission guide (START HERE)**
+- **🎯 [THEMES.md](./THEMES.md)** - Project categories and problem statements  
+- **📖 [README.md](./README.md)** - Hackathon overview and instructions
+- **⚖️ [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)** - Community guidelines
+
+---
+
+**Need help?** Check [SUBMISSION_TEMPLATE.md](./SUBMISSION_TEMPLATE.md) for detailed instructions or use [Discussions](https://github.com/OpenHack-25/Hackathon/discussions) for questions.
