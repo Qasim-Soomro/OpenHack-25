@@ -1,6 +1,6 @@
 # OpenHack'25 Themes and Project Categories
 ## Categories
-Choose **one** category for your project:Welcome to OpenHack'25! This guide will help you understand the project categories and choose the right approach for your hackathon submission.
+Choose **one** category for your project: Welcome to OpenHack'25! This guide will help you understand the project categories and choose the right approach for your hackathon submission.
 
 ### 1. Education
 Enhance learning, teaching, or educational access
@@ -60,7 +60,7 @@ Projects don't need to use AI, but if you want to explore AI, you can add intell
 
 ## Resources
 - [PROBLEMS.md](./PROBLEMS.md) - Problem statements (coming soon)
-- [SUBMISSION_TEMPLATE.md](./SUBMISSION_TEMPLATE.md) - How to submit**Project Ideas:**
+- [SUBMISSION_TEMPLATE.md](./SUBMISSION_TEMPLATE.md) - How to submit project
 - [TEAM_COLLABORATION.md](./TEAM_COLLABORATION.md) - Team guidelines
 - [README.md](./README.md) - Hackathon overview- Energy consumption monitoring and optimization- Interactive learning applications- Interactive learning applications
 
