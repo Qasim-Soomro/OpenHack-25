@@ -71,7 +71,8 @@ TeamName_ProjectName/
 
 - **📋 [SUBMISSION_TEMPLATE.md](./SUBMISSION_TEMPLATE.md)** - **Complete submission guide (START HERE)**
 - **👥 [TEAM_COLLABORATION.md](./TEAM_COLLABORATION.md)** - Team collaboration guidelines
-- **🎯 [THEMES.md](./THEMES.md)** - Project categories and problem statements  
+- **🎯 [PROBLEMS.md](./PROBLEMS.md)** - **Problem statements (released 15 minutes before hackathon)**
+- **🌟 [THEMES.md](./THEMES.md)** - Project categories and inspiration  
 - **📖 [README.md](./README.md)** - Hackathon overview and instructions
 - **⚖️ [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)** - Community guidelines
 

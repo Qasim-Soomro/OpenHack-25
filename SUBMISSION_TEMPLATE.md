@@ -60,6 +60,7 @@ CodeWarriors
 
 ## Problem Statement
 Explain the problem your code or model solves.
+*Note: Specific problem statements will be available in [PROBLEMS.md](./PROBLEMS.md) 15 minutes before the hackathon starts.*
 
 ## Solution
 Describe your approach - how your logic, algorithm, or model works.
@@ -174,7 +175,7 @@ After creating your Pull Request:
 * Make sure your code **runs without errors**
 * Your **README must explain your logic and setup clearly**
 * Submissions missing README or dependencies will not be reviewed
-* **Deadline:** *October 14, 2025 - 11:59 PM*
+* **Deadline:** *October 15, 2025 - 11:59 AM (24-hour hackathon)*
 * Follow the exact Pull Request title format: `[SUBMISSION] TeamName - ProjectName - Category`
 
 ---

@@ -81,6 +81,7 @@ Make sure your:
 ## Additional Resources
 
 - **[SUBMISSION_TEMPLATE.md](./SUBMISSION_TEMPLATE.md)** - Complete submission guide with Pull Request process
+- **[PROBLEMS.md](./PROBLEMS.md)** - Problem statements (released 15 minutes before hackathon)
 - **[CONTRIBUTING.md](./CONTRIBUTING.md)** - General contribution guidelines
 - **[README.md](./README.md)** - Hackathon overview and instructions
 

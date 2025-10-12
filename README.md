@@ -18,7 +18,9 @@
 
 Welcome to **OpenHack'25** - an exciting hackathon focused on building open-source solutions for real-world challenges! Whether you're a seasoned developer or making your first contribution to open source, join us to create impactful projects in Education, Agriculture, Energy & Climate Change, or Health Care.
 
-**Event Date:** October 14, 2025  
+**Event Start:** October 14, 2025 - 12:00 PM  
+**Event End:** October 15, 2025 - 11:59 AM  
+**Duration:** 24 Hours  
 **Team Size:** 2-3 members  
 **Categories:** Education, Agriculture, Energy & Climate Change, Health Care  
 **Focus:** Open source solutions for real-world problems
@@ -159,7 +161,8 @@ Choose how you'll build your solution:
 - **Developer Tools** - CLI tools, plugins, frameworks, or libraries
 - **Other Creative Solutions** - Games, hardware projects, or innovative approaches
 
-> **Explore the full details and inspiration in [THEMES.md](./THEMES.md)**
+> **Explore the full details and inspiration in [THEMES.md](./THEMES.md)**  
+> **🚨 Specific problem statements will be available in [PROBLEMS.md](./PROBLEMS.md) - released 15 minutes before the hackathon starts!**
 
 
 ## Resources
@@ -168,6 +171,7 @@ Choose how you'll build your solution:
 - [**CONTRIBUTING.md**](./CONTRIBUTING.md) - How to contribute to this repository
 - [**SUBMISSION_TEMPLATE.md**](./SUBMISSION_TEMPLATE.md) - Complete project submission guide
 - [**TEAM_COLLABORATION.md**](./TEAM_COLLABORATION.md) - Team collaboration guidelines
+- [**PROBLEMS.md**](./PROBLEMS.md) - Problem statements (released 15 minutes before hackathon)
 - [**CODE_OF_CONDUCT.md**](./CODE_OF_CONDUCT.md) - Community guidelines
 - [**THEMES.md**](./THEMES.md) - Project ideas and inspiration
 - [**LICENSE**](./LICENSE) - MIT License details
