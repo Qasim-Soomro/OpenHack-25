@@ -30,7 +30,7 @@ If you want to try AI, here are some open suggestions:
 
 ---
 
-💡 Remember: These are **just suggestions**.  
+Remember: These are **just suggestions**.  
 The best projects often come from unique, original ideas.  
 Focus on **creativity, impact, and teamwork**.
 

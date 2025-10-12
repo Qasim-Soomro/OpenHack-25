@@ -9,7 +9,7 @@ Thank you for your interest in contributing to **OpenHack’25**. This repositor
 4. **Develop** your project or make your changes. Ensure your code is well-documented and tested.
 5. **Commit** your changes with clear and descriptive commit messages.
 6. **Push** your branch to your forked repository.
-7. **Submit your project** using the [Submission Form (GitHub Issue)](https://github.com/OpenHack-25/Hack/issues/new?assignees=&labels=submission&template=submission_template.md&title=Submission%3A+%3Cproject+name%3E).
+7. **Submit your project** using the [Submission Form (GitHub Issue)](https://github.com/OpenHack-25/Hackathon/issues/new?assignees=&labels=submission&template=submission_template.md&title=Submission%3A+%3Cproject+name%3E).
 
 ## Submission Requirements
 - Use the [submission template](.github/ISSUE_TEMPLATE/submission_template.md).
@@ -31,4 +31,4 @@ Thank you for your interest in contributing to **OpenHack’25**. This repositor
 - [THEMES.md](./THEMES.md) — Project ideas and themes
 - [README.md](./README.md) — Hackathon overview and instructions
 
-If you have any questions, please use the [Discussions](https://github.com/OpenHack-25/Hack/discussions) tab or open an issue.
+If you have any questions, please use the [Discussions](https://github.com/OpenHack-25/Hackathon/discussions) tab or open an issue.

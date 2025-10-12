@@ -1,4 +1,4 @@
-# 🚀 OpenHack'25
+# OpenHack'25 Hackathon
 
 <div align="center">
 
@@ -6,15 +6,15 @@
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&logo=github)](./CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
 
-[![GitHub contributors](https://img.shields.io/github/contributors/OpenHack-25/Hack?style=for-the-badge)](https://github.com/OpenHack-25/Hack/graphs/contributors)
-[![GitHub issues](https://img.shields.io/github/issues/OpenHack-25/Hack?style=for-the-badge)](https://github.com/OpenHack-25/Hack/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/OpenHack-25/Hack?style=for-the-badge)](https://github.com/OpenHack-25/Hack/pulls)
+[![GitHub contributors](https://img.shields.io/github/contributors/OpenHack-25/Hackathon?style=for-the-badge)](https://github.com/OpenHack-25/Hackathon/graphs/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/OpenHack-25/Hackathon?style=for-the-badge)](https://github.com/OpenHack-25/Hackathon/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/OpenHack-25/Hackathon?style=for-the-badge)](https://github.com/OpenHack-25/Hackathon/pulls)
 
 </div>
 
 ---
 
-## 🎯 About OpenHack'25
+## About OpenHack'25
 
 Welcome to **OpenHack'25** - an exciting hackathon focused on building open-source solutions for real-world challenges! Whether you're a seasoned developer or making your first contribution to open source, join us to create impactful projects in Education, Agriculture, Energy & Climate Change, or Health Care.
 
@@ -23,7 +23,7 @@ Welcome to **OpenHack'25** - an exciting hackathon focused on building open-sour
 **Categories:** Education, Agriculture, Energy & Climate Change, Health Care  
 **Focus:** Open source solutions for real-world problems
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [About OpenHack'25](#about-openhack25)
 - [Table of Contents](#table-of-contents)
@@ -56,8 +56,8 @@ Welcome to **OpenHack'25** - an exciting hackathon focused on building open-sour
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Hack.git
-   cd Hack
+   git clone https://github.com/YOUR-USERNAME/Hackathon.git
+   cd Hackathon
    ```
 
 3. **Create a feature branch**
@@ -108,7 +108,7 @@ For detailed guidelines, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 - **Project Type:** Choose from Mobile App, Web App, Developer Tools, or other creative solutions
 - **Presentation Materials:** PPT and visuals will be collected through a separate form
 
-> ⚠️ **Important:** Organizers reserve the right to disqualify teams for unsportsmanlike behavior.
+> **Important:** Organizers reserve the right to disqualify teams for unsportsmanlike behavior.
 
 ---
 
@@ -212,7 +212,7 @@ New to open source? Welcome! We're excited to have you join us.
 
 ### Mentorship
 - Mentors are available throughout the event
-- Ask questions in [Discussions](https://github.com/OpenHack-25/Hack/discussions)
+- Ask questions in [Discussions](https://github.com/OpenHack-25/Hackathon/discussions)
 - Don't hesitate to reach out for help!
 
 ---
@@ -251,7 +251,7 @@ The hackathon is for creating new open-source projects within the designated cat
 <details>
 <summary><strong>How do I find teammates?</strong></summary>
 <br>
-Use our <a href="https://github.com/OpenHack-25/Hack/discussions">Discussions</a> tab to connect with other participants looking for teammates!
+Use our <a href="https://github.com/OpenHack-25/Hackathon/discussions">Discussions</a> tab to connect with other participants looking for teammates!
 </details>
 
 <details>
@@ -313,20 +313,20 @@ Need assistance? We're here to help!
 
 ### During the Hackathon
 - **Ask mentors** — Available throughout the event
-- **Use Discussions** — [GitHub Discussions](https://github.com/OpenHack-25/Hack/discussions)
+- **Use Discussions** — [GitHub Discussions](https://github.com/OpenHack-25/Hackathon/discussions)
 - **Emergency contact** — Organizers will provide contact info at the event
 
 ### Before the Hackathon
 - **Email us** — Contact information will be provided to registered participants
-- **Join Discussions** — Ask questions in our [Discussions](https://github.com/OpenHack-25/Hack/discussions) tab
+- **Join Discussions** — Ask questions in our [Discussions](https://github.com/OpenHack-25/Hackathon/discussions) tab
 - **Follow updates** — Watch this repository for announcements
 
 ---
 
 <div align="center">
 
-**Ready to hack? Let's build something amazing together! 🚀**
+**Ready to hack? Let's build something amazing together!**
 
-Made with ❤️ by the OpenHack'25 team
+Made with love ❤️ by the OpenHack'25 team
 
 </div>

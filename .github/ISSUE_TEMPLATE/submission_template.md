@@ -1,12 +1,12 @@
 ---
-name: 📝 Hackathon Submission
+name: Hackathon Submission
 about: Submit your solution for review
 title: "[SUBMISSION] <Team Name> - <Challenge Name>"
 labels: submission
 assignees: ""
 ---
 
-## 🏷️ Team Information
+## Team Information
 - Team Name:
 - Members (GitHub handles):
 
@@ -19,13 +19,13 @@ Paste your fork/repo/PR link here.
 ## 📸 Demo / Screenshots
 Add screenshots, GIFs, or video demo link.
 
-## 🧑‍💻 Summary
+## Summary
 Explain what you built, how it works, and why it’s unique.
 
-## 🚀 Deployment (Optional)
+## Deployment (Optional)
 If live, share deployment link.
 
-## ✅ Checklist
+## Checklist
 - [ ] Code compiles without errors
 - [ ] Proper README added
 - [ ] At least 1 commit per team member

@@ -1,20 +1,20 @@
-# 🧠 OpenHack'25 – Project Submission Guide 
+# OpenHack'25 – Project Submission Guide 
 
-Welcome, hackers! 🎉
+Welcome, hackers!
 Follow this guide carefully to submit your project for OpenHack'25.
 Your submission here should **only include your code, model, and technical components.**
-🖼️ *Visuals (like screenshots, UI demos, or videos) will be collected separately through the submission form.*
+*Visuals (like screenshots, UI demos, or videos) will be collected separately through the submission form.*
 
 ---
 
-## 📁 Step 1: Fork the Repo
+## Step 1: Fork the Repo
 
-1. Go to the official repo: [OpenHack'25 Hackathon Repo](https://github.com/OpenHack-25/Hack)
+1. Go to the official repo: [OpenHack'25 Hackathon Repo](https://github.com/OpenHack-25/Hackathon)
 2. Click **"Fork"** to create your own copy.
 
 ---
 
-## 🧱 Step 2: Create Your Project Folder
+## Step 2: Create Your Project Folder
 
 Inside your forked repo, create a folder using this format:
 
@@ -22,7 +22,7 @@ Inside your forked repo, create a folder using this format:
 TeamName_ProjectName/
 ```
 
-✅ Example:
+Example:
 
 ```
 CodeWarriors_AI-Waste-Classifier/
@@ -39,45 +39,45 @@ CodeWarriors_AI-Waste-Classifier/
 └── main.py / app.js / index.ipynb
 ```
 
-💡 *No need to include UI designs, screenshots, or videos — only working code and models.*
+*No need to include UI designs, screenshots, or videos — only working code and models.*
 
 ---
 
-## 🧾 Step 3: Add a README.md
+## Step 3: Add a README.md
 
 Each project must include a `README.md` file like this:
 
 ````markdown
-# 🌟 Project Title
+# Project Title
 AI Waste Classifier
 
-## 👥 Team Name
+## Team Name
 CodeWarriors
 
-## 🧑‍💻 Team Members
+## Team Members
 - Alice – [@alicehub](https://github.com/alicehub)
 - Bob – [@bobdev](https://github.com/bobdev)
 
-## 💡 Problem Statement
+## Problem Statement
 Explain the problem your code or model solves.
 
-## 🚀 Solution
+## Solution
 Describe your approach — how your logic, algorithm, or model works.
 
-## 🧠 Tech Stack
+## Tech Stack
 Languages: Python  
 Libraries: TensorFlow, Pandas, NumPy  
 Tools: GitHub Actions, Docker (if used)
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 1. Clone your fork:
    ```bash
-   git clone https://github.com/YourGitHubUsername/Hack.git
+   git clone https://github.com/YourGitHubUsername/Hackathon.git
    ```
 
 2. Navigate to your project:
    ```bash
-   cd Hack/CodeWarriors_AI-Waste-Classifier
+   cd Hackathon/CodeWarriors_AI-Waste-Classifier
    ```
 
 3. Install dependencies:
@@ -90,22 +90,22 @@ Tools: GitHub Actions, Docker (if used)
    python main.py
    ```
 
-## 🏆 Category
+## Category
 Energy & Climate Change
 
-## 🧩 Challenges Faced
+## Challenges Faced
 Briefly describe one or two technical challenges and how you solved them.
 
-## 📚 Learnings
+## Learnings
 What you learned while building your model or logic.
 
-## 📜 License
+## License
 MIT License
 ````
 
 ---
 
-## 📤 Step 4: Push to Your Fork
+## Step 4: Push to Your Fork
 
 Once done, push your code:
 
@@ -117,20 +117,20 @@ git push origin main
 
 ---
 
-## 🔁 Step 5: Submit Your Entry
+## Step 5: Submit Your Entry
 
 Go to the official [Submission Form](https://forms.gle/form)
 and paste your folder link, for example: (soon)
 
 ```
-https://github.com/YourGitHubUsername/Hack/tree/main/CodeWarriors_AI-Waste-Classifier
+https://github.com/YourGitHubUsername/Hackathon/tree/main/CodeWarriors_AI-Waste-Classifier
 ```
 
-🖼️ *You'll also upload visuals, screenshots, or demo videos in this form — not in the GitHub repo.*
+*You'll also upload visuals, screenshots, or demo videos in this form — not in the GitHub repo.*
 
 ---
 
-## ✅ Rules
+## Rules
 
 * Include only **code, logic, or models** — no UI or visuals here.
 * Make sure your code **runs without errors.**
@@ -140,36 +140,36 @@ https://github.com/YourGitHubUsername/Hack/tree/main/CodeWarriors_AI-Waste-Class
 
 ---
 
-## 📋 Project Categories
+## Project Categories
 
 Choose one of these categories for your project:
 
-### 📚 Education
+### Education
 Build solutions that enhance learning, teaching, or educational access
 
-### 🌱 Agriculture
+### Agriculture
 Create tools for farming, food security, or agricultural innovation
 
-### 🌍 Energy and Climate Change
+### Energy and Climate Change
 Develop solutions for sustainability, renewable energy, or environmental challenges
 
-### 🏥 Health Care
+### Health Care
 Design tools for health monitoring, medical access, or wellness improvement
 
 ---
 
-## 🎯 Project Types
+## Project Types
 
 Your solution can be implemented as:
 
-- 📱 **Mobile App** — iOS, Android, or cross-platform applications
-- 💻 **Web App** — Websites, web services, or browser-based tools  
-- 🛠️ **Developer Tools** — CLI tools, plugins, frameworks, or libraries
-- 🎨 **Other Creative Solutions** — Games, hardware projects, or innovative approaches
+- **Mobile App** — iOS, Android, or cross-platform applications
+- **Web App** — Websites, web services, or browser-based tools  
+- **Developer Tools** — CLI tools, plugins, frameworks, or libraries
+- **Other Creative Solutions** — Games, hardware projects, or innovative approaches
 
 ---
 
-## 🏆 Judging Criteria
+## Judging Criteria
 
 Your project will be evaluated based on:
 
@@ -188,14 +188,14 @@ Your project will be evaluated based on:
 
 ---
 
-## 📞 Need Help?
+## Need Help?
 
-- 💬 Use [GitHub Discussions](https://github.com/OpenHack-25/Hack/discussions) for questions
+- Use [GitHub Discussions](https://github.com/OpenHack-25/Hackathon/discussions) for questions
 - 📧 Contact organizers through the official communication channels
 - 🆘 Check our [FAQ section](./README.md#faq) in the main README
 
 ---
 
-**Good luck, and happy hacking! 🚀**
+**Good luck, and happy hacking!**
 
-Made with ❤️ by the OpenHack'25 team
+Made with love by the OpenHack'25 team
