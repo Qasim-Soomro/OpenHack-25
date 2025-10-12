@@ -32,9 +32,6 @@ Welcome to **OpenHack'25** - an exciting hackathon focused on building open-sour
 - [How It Works](#how-it-works)
 - [Judging Criteria](#judging-criteria)
 - [Categories & Project Types](#categories--project-types)
-- [For Beginners](#for-beginners)
-- [FAQ](#faq)
-- [Resources](#resources)
 - [Code of Conduct](#code-of-conduct)
 - [Getting Help](#getting-help)
 
@@ -47,46 +44,6 @@ Welcome to **OpenHack'25** - an exciting hackathon focused on building open-sour
 - Fully charged battery (bring your charger!)
 - GitHub account
 - Git installed on your machine
-
-### Getting Started
-1. **Fork this repository**
-   ```bash
-   # Click the "Fork" button at the top of this page
-   ```
-
-2. **Clone your fork**
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/Hackathon.git
-   cd Hackathon
-   ```
-
-3. **Create a feature branch**
-   ```bash
-   git checkout -b feature/my-awesome-project
-   ```
-
-4. **Make your changes**
-   ```bash
-   # Build something amazing!
-   git add .
-   git commit -m "Add my awesome feature"
-   ```
-
-5. **Push to your fork**
-   ```bash
-   git push origin feature/my-awesome-project
-   ```
-
-6. **Create a Pull Request**
-   - Go to your fork on GitHub
-   - Click "New Pull Request"
-   - Submit your project folder with complete solution and documentation
-
-**Presentation Materials:** PPT and visuals will be collected through a separate form link provided during the event
-
-For detailed guidelines, see [CONTRIBUTING.md](./CONTRIBUTING.md)
-
----
 
 ## Rules & Guidelines
 
@@ -204,74 +161,6 @@ Choose how you'll build your solution:
 
 > **Explore the full details and inspiration in [THEMES.md](./THEMES.md)**
 
----
-
-## For Beginners
-
-New to open source? Welcome! We're excited to have you join us. 
-
-### Mentorship
-- Mentors are available throughout the event
-- Ask questions in [Discussions](https://github.com/OpenHack-25/Hackathon/discussions)
-- Don't hesitate to reach out for help!
-
----
-
-## FAQ
-
-<details>
-<summary><strong>When is the hackathon?</strong></summary>
-<br>
-OpenHack'25 takes place on <strong>October 14, 2025</strong>. More details about timing will be shared with registered participants.
-</details>
-
-<details>
-<summary><strong>Do I need programming experience?</strong></summary>
-<br>
-Not necessarily! While programming skills are helpful, we welcome designers, project managers, and anyone interested in open source. Teams often benefit from diverse skill sets.
-</details>
-
-<details>
-<summary><strong>What should I bring?</strong></summary>
-<br>
-<ul>
-<li>Laptop with your preferred development environment</li>
-<li>Charger and any necessary cables</li>
-<li>Notebook and pen for planning</li>
-<li>Your favorite beverages and snacks</li>
-</ul>
-</details>
-
-<details>
-<summary><strong>Can I work on an existing project?</strong></summary>
-<br>
-The hackathon is for creating new open-source projects within the designated categories. However, you can build upon existing open source tools and libraries as dependencies.
-</details>
-
-<details>
-<summary><strong>How do I find teammates?</strong></summary>
-<br>
-Use our <a href="https://github.com/OpenHack-25/Hackathon/discussions">Discussions</a> tab to connect with other participants looking for teammates!
-</details>
-
-<details>
-<summary><strong>What if I can't finish my project?</strong></summary>
-<br>
-That's perfectly fine! The goal is to learn, collaborate, and have fun. Submit what you have - judges appreciate effort and creativity over completion.
-</details>
-
-<details>
-<summary><strong>How do I submit my project?</strong></summary>
-<br>
-<ol>
-<li>Create a dedicated folder for your project in this repository</li>
-<li>Submit your code via Pull Request</li>
-<li>Submit your presentation materials (PPT/visuals) through the form link provided during the event</li>
-<li>Include clear documentation and setup instructions in your project folder</li>
-</ol>
-</details>
-
----
 
 ## Resources
 
@@ -282,20 +171,6 @@ That's perfectly fine! The goal is to learn, collaborate, and have fun. Submit w
 - [**CODE_OF_CONDUCT.md**](./CODE_OF_CONDUCT.md) - Community guidelines
 - [**THEMES.md**](./THEMES.md) - Project ideas and inspiration
 - [**LICENSE**](./LICENSE) - MIT License details
-
-### Helpful Tools
-- [GitHub Desktop](https://desktop.github.com/) - GUI for Git
-- [VS Code](https://code.visualstudio.com/) - Popular code editor
-- [Figma](https://figma.com/) - Design and prototyping
-- [Miro](https://miro.com/) - Collaborative planning
-
-### Learning Resources
-- [freeCodeCamp](https://freecodecamp.org/) - Free coding tutorials
-- [MDN Web Docs](https://developer.mozilla.org/) - Web development reference
-- [Python.org](https://python.org/) - Python programming resources
-- [React Docs](https://react.dev/) - React development guide
-
----
 
 ## Code of Conduct
 
