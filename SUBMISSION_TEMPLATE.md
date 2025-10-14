@@ -157,7 +157,7 @@ Once your project is ready:
 
 After creating your Pull Request:
 
-1. Go to the official [Submission Form](https://forms.gle/form) (link coming soon)
+1. Go to the official [Submission Form](https://forms.gle/jguDY8BJKawXu547)
 2. Provide your Pull Request link, for example:
    ```
    https://github.com/YourGitHubUsername/Hackathon/pull/123
